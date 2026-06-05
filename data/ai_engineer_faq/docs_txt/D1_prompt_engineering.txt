@@ -4,11 +4,6 @@ title: Prompt Engineering
 source_url: https://developers.openai.com/api/docs/guides/prompt-engineering.md
 ---
 
----
-doc_id: D1
-title: Prompt Engineering
-source_url: https://developers.openai.com/api/docs/guides/prompt-engineering.md
----
 Prompt engineering
 
 With the OpenAI API, you can use a large language model to generate text from a prompt, as you might using ChatGPT. Models can generate almost any kind of text response—like code, mathematical equations, structured JSON data, or human-like prose.

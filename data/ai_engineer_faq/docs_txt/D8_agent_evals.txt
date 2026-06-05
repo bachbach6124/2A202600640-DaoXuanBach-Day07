@@ -4,11 +4,6 @@ title: Agent Evals
 source_url: https://developers.openai.com/api/docs/guides/agent-evals.md
 ---
 
----
-doc_id: D8
-title: Agent Evals
-source_url: https://developers.openai.com/api/docs/guides/agent-evals.md
----
 Evaluate agent workflows
 
 The OpenAI Platform offers a suite of evaluation tools to help you ensure your agents perform consistently and accurately.

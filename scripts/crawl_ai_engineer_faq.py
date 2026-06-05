@@ -263,8 +263,9 @@ def crawl(output_dir: Path) -> None:
             failures.append((source.doc_id, str(exc)))
             continue
 
-        markdown = with_metadata(source, clean_markdown(raw))
-        text = with_metadata(source, markdown_to_text(markdown))
+        cleaned_markdown = clean_markdown(raw)
+        markdown = with_metadata(source, cleaned_markdown)
+        text = with_metadata(source, markdown_to_text(cleaned_markdown))
         (docs_md / f"{source.filename}.md").write_text(markdown, encoding="utf-8")
         (docs_txt / f"{source.filename}.txt").write_text(text, encoding="utf-8")
         print(f"Downloaded {source.doc_id}: {source.title}")

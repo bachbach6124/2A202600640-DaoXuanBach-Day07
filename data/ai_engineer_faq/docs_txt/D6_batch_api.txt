@@ -4,11 +4,6 @@ title: Batch API
 source_url: https://developers.openai.com/api/docs/guides/batch.md
 ---
 
----
-doc_id: D6
-title: Batch API
-source_url: https://developers.openai.com/api/docs/guides/batch.md
----
 Batch API
 
 Learn how to use OpenAI's Batch API to send asynchronous groups of requests with 50% lower costs, a separate pool of significantly higher rate limits, and a clear 24-hour turnaround time. The service is ideal for processing jobs that don't require immediate responses. You can also explore the API reference directly here.

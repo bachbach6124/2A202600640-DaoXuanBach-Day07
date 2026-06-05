@@ -4,11 +4,6 @@ title: Embeddings
 source_url: https://developers.openai.com/api/docs/guides/embeddings.md
 ---
 
----
-doc_id: D2
-title: Embeddings
-source_url: https://developers.openai.com/api/docs/guides/embeddings.md
----
 Vector embeddings
 What are embeddings?
 

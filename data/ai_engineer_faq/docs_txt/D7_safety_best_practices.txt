@@ -4,11 +4,6 @@ title: Safety Best Practices
 source_url: https://developers.openai.com/api/docs/guides/safety-best-practices.md
 ---
 
----
-doc_id: D7
-title: Safety Best Practices
-source_url: https://developers.openai.com/api/docs/guides/safety-best-practices.md
----
 Safety best practices
 Use our free Moderation API
 

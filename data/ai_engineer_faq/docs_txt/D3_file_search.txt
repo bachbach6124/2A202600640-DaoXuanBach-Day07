@@ -4,11 +4,6 @@ title: File Search
 source_url: https://developers.openai.com/api/docs/guides/tools-file-search.md
 ---
 
----
-doc_id: D3
-title: File Search
-source_url: https://developers.openai.com/api/docs/guides/tools-file-search.md
----
 File search
 
 File search is a tool available in the Responses API.

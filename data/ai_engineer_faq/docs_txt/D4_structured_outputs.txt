@@ -4,11 +4,6 @@ title: Structured Outputs
 source_url: https://developers.openai.com/api/docs/guides/structured-outputs.md
 ---
 
----
-doc_id: D4
-title: Structured Outputs
-source_url: https://developers.openai.com/api/docs/guides/structured-outputs.md
----
 Structured model outputs
 
  .trim(),

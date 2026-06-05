@@ -4,11 +4,6 @@ title: Rate Limits
 source_url: https://developers.openai.com/api/docs/guides/rate-limits.md
 ---
 
----
-doc_id: D5
-title: Rate Limits
-source_url: https://developers.openai.com/api/docs/guides/rate-limits.md
----
 Rate limits
 
 Rate limits are restrictions that our API imposes on the number of times a user or client can
